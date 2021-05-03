@@ -1,0 +1,11 @@
+{
+    "name": "vg5vl5",
+    "version": "1.0.0",
+    "author": "nteract & vega",
+    "license": "MIT",
+    "dependencies": {
+        "vega": "^5.20.0",
+        "vega-embed": "^6.2.1",
+        "vega-lite": "^5.1.0"
+    }
+}
